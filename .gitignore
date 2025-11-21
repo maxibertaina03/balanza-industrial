@@ -1,0 +1,21 @@
+# Archivos de datos y configuración (NO subir)
+balanza_config.json
+balanza_realtime.json
+balanza_password.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
